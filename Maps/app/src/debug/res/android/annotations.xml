@@ -1,0 +1,5 @@
+<root>
+    <item name='android.R.attr'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
